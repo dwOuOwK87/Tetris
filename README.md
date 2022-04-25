@@ -12,7 +12,7 @@ Download Tetris.rar and open Tetris.exe.
 
 Enjoy the game:)
 
-=============================================================================
+=Controll=
 
 W: rotate
 
