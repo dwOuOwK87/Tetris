@@ -8,7 +8,9 @@ Just tell me if you find any problem or have any suggest, I will improve this ga
 
 By the way, this game have no music and highest score recording board, I will add it if I get free time.
 
-Download Tetris.rar and open Tetris.exe. Enjoy the game:)
+Download Tetris.rar and open Tetris.exe. 
+
+Enjoy the game:)
 
 =============================================================================
 
