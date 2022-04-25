@@ -7,3 +7,5 @@ Of course,
 Just tell me if you find any problem, I will debug as quick as possible.
 
 This game have no music, I will add it soon.
+
+Download the rar and open tetris.exe then enjoy the game.
