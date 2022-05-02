@@ -6,7 +6,9 @@ so don't complain to me just because of something shortages in it.
 Of course,
 Just tell me if you find any problem or have any suggest, I will improve this game as quick as possible.
 
-By the way, this game have no music and highest score recording board, I will add it if I get free time.
+By the way, this game have no the block prestoration and the highest score recording board, and it also lacks of some sound effects.
+
+I will add it if I get free time.
 
 Download Tetris.rar and open Tetris.exe. 
 
@@ -14,8 +16,8 @@ Enjoy the game:)
 
 =Controll=
 
-W: rotate
+W or UpArrow: rotate
 
-A, D: horizontally move
+A, D or LeftArrow, RightArrow: horizontally move
 
-S: rapidly down
+S or DownArrow: rapidly down
