@@ -6,7 +6,7 @@ so don't complain to me just because of something shortages in it.
 Of course,
 Just tell me if you find any problem or have any suggest, I will improve this game as quick as possible.
 
-By the way, this game have no the block prestoration and the highest score recording board, and it also lacks of some sound effects.
+By the way, this game have no the highest score recording board and some sound effects.
 
 I will add it if I get free time.
 
