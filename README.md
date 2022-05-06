@@ -20,4 +20,8 @@ W or UpArrow: rotate
 
 A, D or LeftArrow, RightArrow: horizontally move
 
-S or DownArrow: rapidly down
+S or DownArrow: down in an instant
+
+Space: rapidly down
+
+Z: prestore block
